@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayu85
-- 👀 I’m interested in ... Development sector
-- 🌱 I’m currently learning ...Web development 
+- 👀 I’m interested in ...Full Stack Development
+- 🌱 I’m currently learning ...Full Stackdevelopment 
 - 💞️ I’m looking to collaborate on ... Any project
 - 📫 How to reach me ...9005676379
 

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayu85
-- https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+- https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
 - 👀 I’m interested in ...Full Stack Development
 - 🌱 I’m currently learning ...Full Stackdevelopment 
 - 💞️ I’m looking to collaborate on ... Any project

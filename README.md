@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ayushsinghdalimss@gmail.com**
 
-<h3 align="left">Connect with me: www.linkedin.com/in/ayush-singh85</h3>
+<h3 align="left">Connect with me:          <a href="www.linkedin.com/in/ayush-singh85" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/ayush-singh85"  width="110" height="25"/> </a> </h3>
 <p align="left">
 </p>
 

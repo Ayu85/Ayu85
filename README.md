@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="center">Connect with me: www.linkedin.com/in/ayush-singh85 </h3>
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱 I’m currently learning **Full Stack Development[MERN]**
 
 - 📫 How to reach me **ayushsinghdalimss@gmail.com**
 

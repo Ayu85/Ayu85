@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayush Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h3 align="center">Connect with me: www.linkedin.com/in/ayush-singh85 </h3>
+<h3 align="center">Connect with me: <p > <a href="www.linkedin.com/in/ayush-singh85"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="ayu85" /></a> </p> </h3>
 
 - 🌱 I’m currently learning **Full Stack Development[MERN]**
 

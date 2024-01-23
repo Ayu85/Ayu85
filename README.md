@@ -4,6 +4,13 @@
 
 - 🌱 I’m currently learning **Full Stack Development[MERN]**
 
+
+
+
+
+
+![qwer](https://github.com/Ayu85/Ayu85/assets/103013928/be568cc5-8f38-40e3-ac54-d4d27e75d11d)
+
 - 📫 How to reach me **ayushsinghdalimss@gmail.com**
 
 <p align="center">

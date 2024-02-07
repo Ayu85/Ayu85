@@ -26,6 +26,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayu85&theme=vue-dark&hide_border=true" alt="ayu85" /></p>
 
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px; text-align:center;"/>
 
 <!---
 Ayu85/Ayu85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

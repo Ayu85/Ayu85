@@ -12,8 +12,8 @@
 
 
 
+![qwer](https://github.com/Ayu85/Ayu85/assets/103013928/d83638a2-90da-44e8-a90f-b8278b3dbf0d)
 
-![qwer](https://github.com/Ayu85/Ayu85/assets/103013928/be568cc5-8f38-40e3-ac54-d4d27e75d11d)
 
 - 📫 How to reach me **ayushsinghdalimss@gmail.com**
 

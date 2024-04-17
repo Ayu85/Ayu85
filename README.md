@@ -34,6 +34,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px; text-align:center;"/>
+![Ayush singh](https://github.com/Ayu85/Ayu85/assets/103013928/90f65c69-9895-44c4-81a6-05d97d5287c7)
 
 <!---
 Ayu85/Ayu85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

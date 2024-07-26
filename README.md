@@ -6,13 +6,17 @@
 <a href="https://www.leetcode.com/ayushmcmt85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushmcmt85" height="30" width="40" /></a>
 </p> </h3>
 
-- 🌱 I’m currently learning **Full Stack Development[MERN]**
-
-
 
 
 
 ![new cover 2](https://github.com/user-attachments/assets/3eca902b-6d68-42a2-8b9f-61d5ad57b28e)
+
+
+
+- 🌱 I’m currently learning **Full Stack Development[MERN]**
+
+
+
 
 
 

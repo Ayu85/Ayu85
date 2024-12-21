@@ -74,8 +74,9 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px; text-align:center;"/>
+---
 
+Feel free to explore my repositories and get in touch if you want to collaborate or just chat about tech!
 
 <!---
 Ayu85/Ayu85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
